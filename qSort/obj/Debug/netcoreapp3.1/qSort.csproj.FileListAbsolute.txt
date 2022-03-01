@@ -1,0 +1,11 @@
+C:\Users\flutter\Desktop\mdsoft\qSort\qSort\bin\Debug\netcoreapp3.1\qSort.exe
+C:\Users\flutter\Desktop\mdsoft\qSort\qSort\bin\Debug\netcoreapp3.1\qSort.deps.json
+C:\Users\flutter\Desktop\mdsoft\qSort\qSort\bin\Debug\netcoreapp3.1\qSort.runtimeconfig.json
+C:\Users\flutter\Desktop\mdsoft\qSort\qSort\bin\Debug\netcoreapp3.1\qSort.runtimeconfig.dev.json
+C:\Users\flutter\Desktop\mdsoft\qSort\qSort\bin\Debug\netcoreapp3.1\qSort.dll
+C:\Users\flutter\Desktop\mdsoft\qSort\qSort\bin\Debug\netcoreapp3.1\qSort.pdb
+C:\Users\flutter\Desktop\mdsoft\qSort\qSort\obj\Debug\netcoreapp3.1\qSort.csprojAssemblyReference.cache
+C:\Users\flutter\Desktop\mdsoft\qSort\qSort\obj\Debug\netcoreapp3.1\qSort.AssemblyInfoInputs.cache
+C:\Users\flutter\Desktop\mdsoft\qSort\qSort\obj\Debug\netcoreapp3.1\qSort.AssemblyInfo.cs
+C:\Users\flutter\Desktop\mdsoft\qSort\qSort\obj\Debug\netcoreapp3.1\qSort.dll
+C:\Users\flutter\Desktop\mdsoft\qSort\qSort\obj\Debug\netcoreapp3.1\qSort.pdb
